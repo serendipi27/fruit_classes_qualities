@@ -1,8 +1,8 @@
 .ipynb_checkpoints/
 __pycache__/
-myenv/
 .Trash-0/
 test_500/
 068.농산물_품질(QC)_이미지/
 download.tar
 train/
+myenv
